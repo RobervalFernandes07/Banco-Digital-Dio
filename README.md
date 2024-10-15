@@ -1,2 +1,2 @@
 # Banco-Digital-Dio
-Projeto usando POO em java pela dio.
+Projeto usando POO em java.
